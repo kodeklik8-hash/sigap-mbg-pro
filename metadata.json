@@ -1,0 +1,7 @@
+{
+  "name": "SIGAP MBG Pro",
+  "description": "Sistem Integrasi & Distribusi Aslap MBG - Platform manajemen distribusi Makan Bergizi Gratis (MBG) yang menghubungkan Aslap, Driver, dan Sekolah secara real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
